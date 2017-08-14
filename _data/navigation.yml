@@ -5,6 +5,11 @@
   excerpt:
   image:
 
+- title: blog
+  url: /blog/
+  excerpt:
+  image:
+
 #- title: 1
   #author: group1
   #url: /engendering-zombie-fiction/

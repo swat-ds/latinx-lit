@@ -2,16 +2,16 @@
 
 <!-- fallback background image -->
 
-    {% if post.image_teaser %}
-        {% assign background = post.image_teaser %}
+    {% if member.image_teaser %}
+        {% assign background = member.image_teaser %}
     {% else %}
         {% assign background = site.teaser %}
     {% endif %}
 
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser" style="background-image: url({{ site.url }}/images/{{ background }});">
+    <a href="http://scalar.usc.edu/works/{{ member.scalar }}" title="{{ member.title }}" class="post-teaser" style="background-image: url({{ site.url }}/images/{{ background }});">
 
-    {% if post.title %}
-    <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+    {% if member.title %}
+    <h2 class="post-title" itemprop="name">{{ member.title }}</h2>
     {% endif %}
     </a>
 

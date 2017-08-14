@@ -1,0 +1,14 @@
+- name: Eric Mill
+  scalar: latino-literature/index
+  image_teaser: helen-magill-white-1.jpg
+  title: Latino Literature
+
+- name: Parker Moore
+  scalar: pathfinders/index
+  image_teaser: human-butcher-shop.jpg
+  title: pathfinders
+
+- name: Liu Fengyun
+  scalar: performingarchive/index
+  image_teaser: White-Zombie-poster-3.jpg
+  title: performing 

@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "[ Zombies Reimagined ]"
-description: A Critical Discourse Analysis of Popular Culture
+title: "Introduction to Latinx Literature and Culture"
+description: Experiences and the cultural imagination in Latinx communities.
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://ds.swarthmore.edu/zombies-reimagined
+#url: http://ds.swarthmore.edu/zombies-reimagined
 # url: 
 feed:
   path: atom.xml
