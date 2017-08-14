@@ -11,6 +11,10 @@ image:
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
+      by {{ post.author }}
+      {{ post.date }}
+      <hr/>
+      
     </li>
   {% endfor %}
 </ul>
