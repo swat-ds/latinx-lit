@@ -6,8 +6,6 @@ image:
     banner: images/banner2.jpg
 ---
 
-**Projects**
-
 <div class="tiles">
 
 {% for member in site.data.members %}
