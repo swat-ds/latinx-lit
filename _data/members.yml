@@ -11,4 +11,9 @@
 - name: Liu Fengyun
   scalar: performingarchive/index
   image_teaser: trump.jpg
-  title: performing 
+  title: performing
+
+- name: Liu Fengyun
+  scalar: mirzoeff/index
+  image_teaser: White-Zombie-poster-3.jpg
+  title: Children 
