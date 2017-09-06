@@ -1,12 +1,10 @@
 ---
 layout: archive
 permalink: /about/
-title: about
-image:
-    banner: images/banner-large.jpg
+title: About
 ---
 
-![group photo of class](../images/class-picture-2017.jpg)
+![group photo of class](../images/banner2.jpg)
 
 *Zombies Reimagined seminar class, 2017*
 <hr/>
