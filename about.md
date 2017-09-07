@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-![group photo of class](../images/banner2.jpg)
+![group photo of class](../images/banner.jpg)
 
 *Zombies Reimagined seminar class, 2017*
 <hr/>
