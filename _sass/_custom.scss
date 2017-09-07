@@ -33,6 +33,9 @@ a.footnote {
     color: $red;
     font-size: 1.3em;
 }
+.sliding-menu-content.is-visible {
+  width: 40em;
+}
 
 .sliding-menu-content li{
   height: 150px;
