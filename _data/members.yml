@@ -17,3 +17,23 @@
   scalar: mirzoeff/index
   image_teaser: tv.jpg
   title: Children 
+
+- name: Eric Mill
+  scalar: latino-literature/index
+  image_teaser: banner.jpg
+  title: Critical
+
+- name: Parker Moore
+  scalar: pathfinders/index
+  image_teaser: trump.jpg
+  title: Media
+
+- name: Liu Fengyun
+  scalar: performingarchive/index
+  image_teaser: bus.jpg
+  title: Analysis
+
+- name: Liu Fengyun
+  scalar: mirzoeff/index
+  image_teaser: laberinto.jpg
+  title: Digital 

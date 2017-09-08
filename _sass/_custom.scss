@@ -18,10 +18,11 @@ span.rtl {
 }
 
 a.site-title {
-  color: red;
+  color: #fdd561;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   height: 240px;
-  font-size: 38px;
-  line-height:49px;
+  font-size: 49px;
+  line-height:43px;
 }
 
 .footnotes ol {
@@ -29,10 +30,15 @@ a.site-title {
 }
 
 a.footnote {
-
     color: $red;
     font-size: 1.3em;
 }
+
+.top-menu .menu-item li a {
+  color: red;
+  @include font-size(20,no); 
+}
+
 .sliding-menu-content {
   width: 40em;
 }
@@ -152,7 +158,9 @@ article.tile {
   h2 {
     margin: 0;
     padding: 1em .5em;
-    background-color: rgba(0,0,0,.6);
+    line-height: 5;
+    font-size: 40px;
+    //background-color: rgba(0,0,0,.6);
   }
 
   &:hover h2.post-title{
