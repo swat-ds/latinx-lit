@@ -7,9 +7,10 @@ title: About
 ![group photo of class](../images/banner.jpg)
 
 *Introduction to Latinx Literature and Culture Seminar, 2017*
+
 <hr/>
 
-#### The Exhibit
+#### About The Exhibit
 
 
 <hr/>
@@ -18,7 +19,7 @@ title: About
 
 - Coming Soon
 
-<hr/>
+
 
 **Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies**  
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
