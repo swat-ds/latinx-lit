@@ -6,7 +6,7 @@ title: About
 
 ![group photo of class](../images/banner.jpg)
 
-*Zombies Reimagined seminar class, 2017*
+*Introduction to Latinx Literature and Culture Seminar, 2017*
 <hr/>
 
 #### The Exhibit
@@ -20,7 +20,7 @@ title: About
 
 <hr/>
 
-- **Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies**  
+**Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies**  
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
 
 <hr/>
