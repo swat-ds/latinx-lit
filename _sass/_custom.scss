@@ -17,6 +17,11 @@ span.rtl {
     color: $red;
 }
 
+.top-menu {
+  display: block;
+  position: relative;
+}
+
 a.site-title {
   color: #fdd561;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -49,6 +54,10 @@ a.footnote {
 
 .sliding-menu-content li img.teaser{
   height: 100%;
+}
+.sliding-menu-content {
+  width: 30em;
+  height: 40%;
 }
 
 .sliding-menu-content .menu-item li a .excerpt-authors{
