@@ -20,6 +20,7 @@ span.rtl {
 .top-menu {
   display: block;
   position: relative;
+  float: right;
 }
 
 a.site-title {
@@ -39,9 +40,20 @@ a.footnote {
     font-size: 1.3em;
 }
 
-.top-menu .menu-item li a {
-  color: red;
-  @include font-size(20,no); 
+nav.menu.top-menu {
+  float: right;
+}
+
+.top-menu .menu-item {
+  li {
+    a {
+      @include font-size(23,no,1);
+      color: $red;
+      background-color: $link-color;
+      padding-right:10px;
+      padding-left:10px;
+    }
+  }
 }
 
 .sliding-menu-content {
