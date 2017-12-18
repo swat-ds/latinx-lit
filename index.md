@@ -16,6 +16,11 @@ image:
 
 # THIS SITE IS A WORK IN PROGRESS, PLEASE COME BACK AT THE END OF THE SEMESTER!
 
-This First Year Seminar is an introduction to the writings of Latino/as in the U.S. with emphasis on the distinctions and similarities that have shaped the experiences and the cultural imagination among different Latinx communities. We will focus particularly in works produced by the three major groups of U.S. Latinx (Mexican Americans or Chicanos, Puerto Ricans or Nuyoricans, and Cuban Americans) during the 20th and 21st centuries but will also include (mostly toward the end of the course) some pieces representative of other Latinx identities. By critically analyzing works from a range of genres and cultural expressions including poetry, fiction, memoirs, film, and performance, along with recent literary and cultural theory, the course will explore some of the major themes and issues that inform the cultural production of these groups. Topics to be discussed include identity formation and negotiation in terms of language, race, gender, sexuality, and class; the colonial subject; diaspora and emigration; the marketing of the Latinx identity; and activism through art. 
+While the Latinx population in the United States is one of the largest groups in the country and the Latinx culture and people have a continually increasing presence and influence in all walks of life, their representation in the media is still extremely limited, poor, and marked by misconceptions, prejudices, and discriminatory remarks. Hence the urgent need for critical analysis of these representations that are pervasively producing narratives and imaginaries about and around the contested Latinx identity.
+
+This digital exhibit brings together a series of analysis and research projects on the representation of Latinx in contemporary media, with a particular emphasis on digital platforms. Discussing a wide variety of topics and issues ranging from the representation of Latinx families and subjects in commercials or children shows to the controversial reception of the term Latinx itself, this exhibit is an attempt to better understand and critically analyze the narratives that are currently fashioning how Latinx are being portrayed and perceived. 
+
+The project is the collaborative effort of students in the Fall 2017 First-Year Seminar “Introduction to Latinx Literature and Culture”, along with Assistant Professor Désirée Díaz and Research Librarian for Humanities & Interdisciplinary Studies Roberto Vargas at Swarthmore College. 
+ 
 
 <hr/>
