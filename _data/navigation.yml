@@ -5,10 +5,10 @@
   excerpt:
   image:
 
-- title: blog
-  url: /blog/
-  excerpt:
-  image:
+#- title: blog
+  #url: /blog/
+  #excerpt:
+  #image:
 
 - title: resources
   url: /resources/
