@@ -31,6 +31,11 @@ a.site-title {
   line-height:47px;
 }
 
+@media (max-width:450px){
+  a.site-title {
+    font-size: 30px;
+  }
+}
 .footnotes ol {
     list-style: $red;
 }
@@ -56,6 +61,17 @@ nav.menu.top-menu {
   }
 }
 
+@media (max-width:450px){
+  .top-menu .menu-item {
+    li {
+      a {
+        background-color: transparent;
+        font-size: 95%;
+        font-weight: 600;
+        }
+       }
+    }
+}
 .sliding-menu-content {
   width: 40em;
 }
