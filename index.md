@@ -3,7 +3,7 @@ layout: front
 permalink: /
 title: home
 image:
-    banner: images/banner.jpg
+    banner: images/novela.jpg
 ---
 
 <div class="tiles">
