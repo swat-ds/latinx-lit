@@ -13,6 +13,13 @@ span.rtl {
     font-size: 1.1em;
 }
 
+
+.bio-image img{
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+}
+
 .page-title {
     color: $red;
 }
@@ -48,7 +55,7 @@ a.footnote {
 nav.menu.top-menu {
   float: right;
 }
-
+  
 .top-menu .menu-item {
   li {
     a {
@@ -56,6 +63,9 @@ nav.menu.top-menu {
       color: $red;
       padding-right:10px;
       padding-left:10px;
+      &:hover {
+        color: $red;
+      }
     }
   }
 }
