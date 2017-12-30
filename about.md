@@ -16,7 +16,6 @@ title: About
 <hr/>
 
 #### Contributors
-
 <div class="bios">
 {% for member in site.data.members %}
 {% include bioimg.html %}
@@ -26,7 +25,7 @@ title: About
 
 **Desiree Diaz, Assistant Professor, Spanish**
 
-**Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies**  
+**Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies** 
 
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
 
