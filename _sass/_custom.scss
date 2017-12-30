@@ -13,11 +13,43 @@ span.rtl {
     font-size: 1.1em;
 }
 
+.bios {
+  margin: 0 auto;
+}
 
-.bio-image img{
+.col-narrow {
+  padding-top: 40px;
   width: 20%;
-  height: auto;
+  float: left;
+  padding-right: 3%;
+}
+.col-wide {
+  width: 80%;
+  float: left;
+  padding: 5%;
+}
+
+#title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+p, strong {
+  padding-top:30px;
+  clear: both;
+}
+
+.bio-image {
   border-radius: 50%;
+  box-sizing: border-box;
+}
+
+@media (max-width:450px){
+  .bio-image {
+    display: none;
+    width: 30%;
+    height: auto;
+  }
 }
 
 .page-title {
