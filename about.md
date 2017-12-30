@@ -17,10 +17,12 @@ title: About
 
 #### Contributors
 
+<div class="bios">
 {% for member in site.data.members %}
 {% include bioimg.html %}
-{{ member.name }} : {{ member.bio }}
+<div class="col-wide"><div id="title">{{ member.name }}</div> - {{ member.bio }}</div>
 {% endfor %}
+</div>
 
 **Desiree Diaz, Assistant Professor, Spanish**
 
