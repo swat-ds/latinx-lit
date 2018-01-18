@@ -2,6 +2,8 @@
 layout: archive
 permalink: /about/
 title: About
+image:
+    banner: ../images/novela.jpg
 ---
 
 ![group photo of class](../images/class.jpg)
@@ -19,9 +21,12 @@ title: About
 {% endfor %}
 </div>
 
-**Desiree Diaz, Assistant Professor, Spanish**
 
-**Roberto Vargas, Research Librarian for Humanities & Interdisciplinary Studies** 
+
+<div class="col-wide">
+	<p><strong>Desiree Diaz</strong>, Assistant Professor, Spanish Department</p>
+	<p><strong>Roberto Vargas</strong>, Research Librarian for Humanities and Interdisciplinary Studies</p>
+</div>
 
 ![swarthmore libraries logo](../images/logo-mccabe-web.png)
 
