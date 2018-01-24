@@ -26,8 +26,8 @@ image:
 <div class="col-wide">
 	<p><strong>Desiree Diaz</strong>, Assistant Professor, Spanish Department</p>
 	<p><strong>Roberto Vargas</strong>, Research Librarian for Humanities and Interdisciplinary Studies</p>
+	<hr/>
+	<img src="../images/logo-mccabe-web.png" class="logo" alt="">
 </div>
-
-![swarthmore libraries logo](../images/logo-mccabe-web.png)
 
 <hr/>
