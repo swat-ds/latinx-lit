@@ -14,7 +14,6 @@ image:
 
 </div>
 
-# THIS SITE IS A WORK IN PROGRESS, PLEASE COME BACK AT THE END OF THE SEMESTER!
 
 While the Latinx population in the United States is one of the largest groups in the country and the Latinx culture and people have a continually increasing presence and influence in all walks of life, their representation in the media is still extremely limited, poor, and marked by misconceptions, prejudices, and discriminatory remarks. Hence the urgent need for critical analysis of these representations that are pervasively producing narratives and imaginaries about and around the contested Latinx identity.
 
