@@ -5,12 +5,12 @@
   image_teaser: rosario.jpg
   title: AfroLatinas
 
-- name: Diana Garcia
-  bio: is a freshman at Swarthmore College. Diana intends to double major in Peace & Conflict Studies and Educational Studies (or Sociology), with a minor in Latin American Studies. She grew up in New Oxford, Pennsylvania, and enjoys reading, watching movies, listening and playing music, sketching, and playing soccer. Her interest in literature and media has resulted in a more specific interest in Latinx literature and media, especially media in platforms of rising popularity such as YouTube, Twitter and Instagram.
-  bio_img: 
-  scalar: latinidad-youtube/index
-  image_teaser: cholo.jpg
-  title: YouTube
+- name: Veronica Testi
+  bio: is a freshman at Swarthmore College. Possibly majoring in Peace and Conflict Studies or Sociology with a minor in Spanish. She was born in Asuncion, Paraguay and raised in Queens, New York. Living in the city and being exposed to Broadway plays has allowed her to truly appreciate theater, one of my many interests; and while she is still connected to her Paraguayan culture, she is much more interested in looking at the Latinx diaspora. Veronica enjoys watching cult movies and conspiracy theories. Ultimately, she strives to become an Immigration lawyer and be an advocate for others.
+  bio_img: veronica.jpg
+  scalar: latinx-family-representation-in-commercials/index
+  image_teaser: veronica-tile.jpg
+  title: Family
 
 - name: Dana Homer
   bio:  is a freshman at Swarthmore College. She hopes to major in biology. Her other interests include education, Spanish, and community service. In the area of Latinx studies, She is especially interested in the representation of Latinx through platforms like Twitter and Facebook. Since these platforms allow users to reach out to thousands or even millions of people across the US and around the world, they are the perfect tool to increase representation; using social media, the average Latinx can increase representation without waiting for mainstream media like TV or movies to catch up.
@@ -47,12 +47,12 @@
   #image_teaser: trump.jpg
   #title: Media
 
-- name: Veronica Testi
-  bio: is a freshman at Swarthmore College. Possibly majoring in Peace and Conflict Studies or Sociology with a minor in Spanish. She was born in Asuncion, Paraguay and raised in Queens, New York. Living in the city and being exposed to Broadway plays has allowed her to truly appreciate theater, one of my many interests; and while she is still connected to her Paraguayan culture, she is much more interested in looking at the Latinx diaspora. Veronica enjoys watching cult movies and conspiracy theories. Ultimately, she strives to become an Immigration lawyer and be an advocate for others.
-  bio_img: veronica.jpg
-  scalar: latinx-family-representation-in-commercials/index
-  image_teaser: veronica-tile.jpg
-  title: Family
+- name: Diana Garcia
+  bio: is a freshman at Swarthmore College. Diana intends to double major in Peace & Conflict Studies and Educational Studies (or Sociology), with a minor in Latin American Studies. She grew up in New Oxford, Pennsylvania, and enjoys reading, watching movies, listening and playing music, sketching, and playing soccer. Her interest in literature and media has resulted in a more specific interest in Latinx literature and media, especially media in platforms of rising popularity such as YouTube, Twitter and Instagram.
+  bio_img: 
+  scalar: latinidad-youtube/index
+  image_teaser: cholo.jpg
+  title: YouTube
 
 #- name: Abby Yung
   #bio: is a freshman at Swarthmore College. Abby's hometown is Rome, Georgia. Abby anticipates majoring in English and continuing to study Spanish and French. Being half-Bolivian, Abby is interested in Latinx studies, especially analyzing how Latinx people are portrayed in books and movies. She also enjoys journalism, creative writing, soccer, and traveling.
