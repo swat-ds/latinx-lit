@@ -3,15 +3,27 @@ layout: front
 permalink: /
 title: home
 image:
-    banner: images/novela.jpg
+    banner: images/torres-el-pez.jpg
 ---
+### Fall of 2019
 
 <div class="tiles">
-
 {% for member in site.data.members %}
-{% include post-grid.html %}
+   {% if member.year == 2019 %}
+   {% include post-grid.html %}
+   {% endif %}
 {% endfor %}
+</div>
+<hr/>
 
+### Fall of 2017 
+
+<div class="tiles">
+{% for member in site.data.members %}
+   {% if member.year == 2017 %}
+   {% include post-grid.html %}
+   {% endif %}
+{% endfor %}
 </div>
 
 

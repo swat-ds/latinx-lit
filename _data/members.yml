@@ -1,9 +1,18 @@
+- name: Annabella Boardman
+  bio: TBD
+  bio_img: 
+  scalar: /natalia-anciso--fys/index
+  image_teaser: annabella-teaser.jpg
+  title: Artivism
+  year: 2019
+
 - name: Erin Chen
   bio: TBD
-  bio_img: TBD
+  bio_img: erin-bio.jpg
   scalar: latinx-representation-on-young-adult-book-covers/index
   image_teaser: erin-cover.jpg
   title: Covers
+  year: 2019
 
 - name: Omene Addeh 
   bio: is a freshman at Swarthmore College. Possibly majoring in Political Science and Psychology. She is very interested in Peace and Conflict Studies. In the context of Latinx Studies, she is particularly intrigued in the representation of Afro-Latinas, specifically in the mainstream film industry. Her other likes include feminist theory, African literature, and dogs.
@@ -11,6 +20,7 @@
   scalar: afro-latinas-in-the-mainstream-media-an-analysis-of-rosario-dawsons-career/index
   image_teaser: rosario.jpg
   title: AfroLatinas
+  year: 2017
 
 - name: Veronica Testi
   bio: is a freshman at Swarthmore College. Possibly majoring in Peace and Conflict Studies or Sociology with a minor in Spanish. She was born in Asuncion, Paraguay and raised in Queens, New York. Living in the city and being exposed to Broadway plays has allowed her to truly appreciate theater, one of my many interests; and while she is still connected to her Paraguayan culture, she is much more interested in looking at the Latinx diaspora. Veronica enjoys watching cult movies and conspiracy theories. Ultimately, she strives to become an Immigration lawyer and be an advocate for others.
@@ -18,6 +28,7 @@
   scalar: latinx-family-representation-in-commercials/index
   image_teaser: veronica-tile.jpg
   title: Family
+  year: 2017
 
 - name: Dana Homer
   bio:  is a freshman at Swarthmore College. She hopes to major in biology. Her other interests include education, Spanish, and community service. In the area of Latinx studies, She is especially interested in the representation of Latinx through platforms like Twitter and Facebook. Since these platforms allow users to reach out to thousands or even millions of people across the US and around the world, they are the perfect tool to increase representation; using social media, the average Latinx can increase representation without waiting for mainstream media like TV or movies to catch up.
@@ -25,13 +36,15 @@
   scalar: latina-twitter/index
   image_teaser: latinidad.jpg
   title: Twitter
+  year: 2017
 
 - name: Ainsley 'Tori' Knox
   bio: is a freshman at Swarthmore College. She is originally from Wilmington Delaware. While at Swarthmore she hopes to major in biochemistry and possibly minor in music. In her Latinx Culture and Literature class she was particularly interested and researched the impact that mainstream tv shows and movies might have on Latinx children. When she is not in the Latinx class, she enjoy dancing, playing piano, singing, and making artwork.
   bio_img: tory.jpg
   scalar: latinx-representation-in-disney/index 
   image_teaser: disney.jpeg
-  title: Disney 
+  title: Disney
+  year: 2017 
 
 - name: Eudy Lopez
   bio: is a freshman at Swarthmore College. Eudy intends to double major in Political Science and Sociology. In the context of Latinx studies, Eudy is particularly interested in the role of diaspora and generational differences as they contribute to the culture. Eudy's favorite things include binge-watching Netflix, playing pickup basketball, and listening to Lil Uzi while crushing brewskis.
@@ -39,6 +52,7 @@
   scalar: latinx-athletes/index
   image_teaser: legends.jpg
   title: Legends
+  year: 2017
 
 - name: Austin Kim
   bio: 
@@ -46,6 +60,7 @@
   scalar: latinx-project/index
   image_teaser: portrayal.jpg
   title: Portrayal
+  year: 2017
 
 #- name: Kieran McKenna
   #bio: is a freshman at Swarthmore College. Kieran is planning to study Spanish and Computer Science. Kieran grew up in South Bend, Indiana, where he attended Saint Joseph High School.  He still play lacrosse at Swarthmore, loves reading and writing, spending time on my family’s farm, going to concerts, and hiking. Kieran favorite books are The Power of One and Everything is Illuminated and his favorite artists are SZA, J. Cole, and NAV.
