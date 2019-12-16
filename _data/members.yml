@@ -1,3 +1,27 @@
+- name: Kat King
+  bio: TBD
+  bio_img: 
+  scalar: anarchitecture/index
+  image_teaser: anarchitecture-cover.jpg
+  title: Anarchit
+  year: 2019
+
+- name: Reid Mansur
+  bio: Reid Mansur is a freshman from Southeast Arkansas. He is undecided on what to study but has an interest in the humanities and fine arts. Outside of academics, he enjoys music, literature, and theater. Mansur looks forward to a great next three and a half years at Swarthmore broadening his horizons and learning more about himself and the world around him.
+  bio_img: 
+  scalar: martine-gutierrezs-demons-and-the-trans-latinx-experience/index
+  image_teaser: demons-cover.jpg
+  title: Demons
+  year: 2019
+
+- name: Patricia Bautista
+  bio: TBD
+  bio_img: 
+  scalar: blackness-in-latinidad-1/index
+  image_teaser: patricia-thumb.jpg
+  title: AfroLatinx
+  year: 2019
+
 - name: Annabella Boardman
   bio: TBD
   bio_img: 
