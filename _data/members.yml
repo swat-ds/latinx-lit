@@ -1,6 +1,6 @@
 
 - name: Fernanda Espitia Torres
-  bio: TBD
+  bio:
   bio_img: 
   scalar: artivism-in-chicago/index
   image_teaser: artivism-cover.jpg
@@ -16,7 +16,7 @@
   year: 2019
 
 - name: Kat King
-  bio: TBD
+  bio:
   bio_img: 
   scalar: anarchitecture/index
   image_teaser: anarchitecture-cover.jpg
@@ -32,7 +32,7 @@
   year: 2019
 
 - name: Patricia Bautista
-  bio: TBD
+  bio:
   bio_img: 
   scalar: blackness-in-latinidad-1/index
   image_teaser: patricia-thumb.jpg
@@ -40,7 +40,7 @@
   year: 2019
 
 - name: Annabella Boardman
-  bio: TBD
+  bio:
   bio_img: 
   scalar: /natalia-anciso--fys/index
   image_teaser: annabella-teaser.jpg
@@ -48,7 +48,7 @@
   year: 2019
 
 - name: Erin Chen
-  bio: TBD
+  bio:
   bio_img: erin-bio.JPG
   scalar: latinx-representation-on-young-adult-book-covers/index
   image_teaser: erin-cover.jpg
